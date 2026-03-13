@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medical Top Journal Writing"
+  short_description: "Medical-journal writing and submission workflow"
+  default_prompt: "Use $medical-top-journal-writing to turn my draft and study details into a JAMA-style medical journal manuscript plan."
